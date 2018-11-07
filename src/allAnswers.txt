@@ -1,0 +1,415 @@
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (3,0,0)
+You got it in 1 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (3,0,0)
+You got it in 2 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,1,0)
+Your guess 3:  ["A1","A2","B2"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (3,0,0)
+You got it in 2 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C1"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,0)
+Your guess 3:  ["A1","A2","C2"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C3"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D1"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,0)
+Your guess 3:  ["A1","A2","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D2"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D3"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D1"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E1"]
+My answer:  (3,0,0)
+You got it in 5 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,0)
+Your guess 3:  ["A1","A2","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D2"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E2"]
+My answer:  (3,0,0)
+You got it in 5 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D3"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E3"]
+My answer:  (3,0,0)
+You got it in 5 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D1"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E1"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A2","F1"]
+My answer:  (3,0,0)
+You got it in 6 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,0)
+Your guess 3:  ["A1","A2","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D2"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E2"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A2","F2"]
+My answer:  (3,0,0)
+You got it in 6 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D3"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E3"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A2","F3"]
+My answer:  (3,0,0)
+You got it in 6 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D1"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E1"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A2","F1"]
+My answer:  (2,0,1)
+Your guess 7:  ["A1","A2","G1"]
+My answer:  (3,0,0)
+You got it in 7 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,0,0)
+Your guess 3:  ["A1","A2","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D2"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E2"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A2","F2"]
+My answer:  (2,0,1)
+Your guess 7:  ["A1","A2","G2"]
+My answer:  (3,0,0)
+You got it in 7 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","A2","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A2","D3"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A2","E3"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A2","F3"]
+My answer:  (2,0,1)
+Your guess 7:  ["A1","A2","G3"]
+My answer:  (3,0,0)
+You got it in 7 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (2,1,0)
+Your guess 3:  ["A1","A2","B2"]
+My answer:  (1,2,0)
+Your guess 4:  ["A1","A3","B1"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (1,2,2)
+Your guess 3:  ["A1","A3","B2"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,2,0)
+Your guess 3:  ["A2","A3","B3"]
+My answer:  (2,1,0)
+Your guess 4:  ["A1","A3","B3"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,1)
+Your guess 3:  ["A1","A3","C1"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (1,1,2)
+Your guess 3:  ["A1","A3","C2"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,0)
+Your guess 3:  ["A1","A3","C3"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,1)
+Your guess 3:  ["A1","A3","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D1"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (1,1,2)
+Your guess 3:  ["A1","A3","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D2"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,0)
+Your guess 3:  ["A1","A3","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D3"]
+My answer:  (3,0,0)
+You got it in 4 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,1)
+Your guess 3:  ["A1","A3","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D1"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E1"]
+My answer:  (3,0,0)
+You got it in 5 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (1,1,2)
+Your guess 3:  ["A1","A3","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D2"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E2"]
+My answer:  (3,0,0)
+You got it in 5 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,0)
+Your guess 3:  ["A1","A3","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D3"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E3"]
+My answer:  (3,0,0)
+You got it in 5 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,1)
+Your guess 3:  ["A1","A3","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D1"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E1"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A3","F1"]
+My answer:  (3,0,0)
+You got it in 6 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (1,1,2)
+Your guess 3:  ["A1","A3","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D2"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E2"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A3","F2"]
+My answer:  (3,0,0)
+You got it in 6 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,0)
+Your guess 3:  ["A1","A3","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D3"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E3"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A3","F3"]
+My answer:  (3,0,0)
+You got it in 6 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,1)
+Your guess 3:  ["A1","A3","C1"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D1"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E1"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A3","F1"]
+My answer:  (2,0,1)
+Your guess 7:  ["A1","A3","G1"]
+My answer:  (3,0,0)
+You got it in 7 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,1)
+Your guess 2:  ["A1","A2","B3"]
+My answer:  (1,1,2)
+Your guess 3:  ["A1","A3","C2"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D2"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E2"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A3","F2"]
+My answer:  (2,0,1)
+Your guess 7:  ["A1","A3","G2"]
+My answer:  (3,0,0)
+You got it in 7 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (2,0,0)
+Your guess 2:  ["A1","A2","B1"]
+My answer:  (1,1,0)
+Your guess 3:  ["A1","A3","C3"]
+My answer:  (2,0,1)
+Your guess 4:  ["A1","A3","D3"]
+My answer:  (2,0,1)
+Your guess 5:  ["A1","A3","E3"]
+My answer:  (2,0,1)
+Your guess 6:  ["A1","A3","F3"]
+My answer:  (2,0,1)
+Your guess 7:  ["A1","A3","G3"]
+My answer:  (3,0,0)
+You got it in 7 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,1)
+Your guess 2:  ["A1","B1","B2"]
+My answer:  (3,0,0)
+You got it in 2 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,1)
+Your guess 2:  ["A1","B1","B2"]
+My answer:  (2,1,0)
+Your guess 3:  ["A1","B1","B3"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,0)
+Your guess 2:  ["A1","B1","C1"]
+My answer:  (3,0,0)
+You got it in 2 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,1)
+Your guess 2:  ["A1","B1","B2"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","B1","C2"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,1)
+Your guess 2:  ["A1","B1","B2"]
+My answer:  (2,0,0)
+Your guess 3:  ["A1","B1","C3"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,0)
+Your guess 2:  ["A1","B1","C1"]
+My answer:  (2,0,1)
+Your guess 3:  ["A1","B1","D1"]
+My answer:  (3,0,0)
+You got it in 3 guesses!
+Your guess 1:  ["A1","A2","A3"]
+My answer:  (1,0,1)
